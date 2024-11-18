@@ -77,7 +77,7 @@ export default function Footer2() {
                     </div>
                     <p className="about-text">
                       {" "}
-                      TechBe IT is a dynamic and innovative technology company
+                      Ariyan is a dynamic and innovative technology company
                       dedicated to solutions.
                     </p>
                     <div className="gt-social style2">
