@@ -229,16 +229,16 @@ export default function Footer1() {
               <p className="copyright">
                  Designed by:
                 <Link scroll={false} href={`/`}>
-                 AriyaN Islam Raj
+                  AriyaN Islam Raj
                 </Link>
               </p>
             </div>
             <div className="layout-link wow fadeInUp" data-wow-delay=".6s">
               <div className="link-wrapper">
-                <Link scroll={false} href={`/home-3`}>
+                <Link scroll={false} href={`/terms`}>
                   Terms &amp; Condition{" "}
                 </Link>
-                <Link scroll={false} href={`/home-3`}>
+                <Link scroll={false} href={`/privacy`}>
                   Privacy Policy
                 </Link>
               </div>
